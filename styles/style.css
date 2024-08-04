@@ -4,5 +4,28 @@
     box-sizing: border-box;
     font-family: "Figtree", sans-serif;
 }
+
+body{
+    background: #F5D04E;
+}
 /* main section styles start */
+.container{
+    width: 20%;
+    margin: 0 auto;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
 /* main section styles end */
+
+/* content section styles start */
+.content-images svg{
+    width: 100%;
+    border-radius: 10px;
+}
+/* content section styles end */
