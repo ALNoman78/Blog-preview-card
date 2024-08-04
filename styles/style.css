@@ -21,8 +21,10 @@ body{
     border: 2px solid black;
     padding: 20px;
     border-radius: 10px;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 1);
 }
 /* main section styles end */
+
 /* content section styles start */
 .content-images svg{
     width: 100%;
